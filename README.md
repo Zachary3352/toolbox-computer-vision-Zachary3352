@@ -1,5 +1,10 @@
 # ToolBox-ComputerVision
 
-Image Processing and Computer Vision Project Toolbox starter code
+Zachary's Completed Image Processing and Computer Vision Project Toolbox
 
-Instructions are on the [the toolbox page](https://sd2020spring.github.io/toolboxes/image-processing).
+Requirements:
+- OpenCV
+
+Run `face_detect.py`!
+
+Original instructions are on the [the toolbox page](https://sd2020spring.github.io/toolboxes/image-processing).
